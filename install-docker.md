@@ -7,7 +7,9 @@ sudo usermod -a -G docker ec2-user
 
 
 Make docker auto-start
+
 sudo chkconfig docker on
+
 
 Because you always need it....
 
